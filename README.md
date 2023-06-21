@@ -9,4 +9,4 @@ REACT JS
 
 # Deployed
 
-Netlify -
+Netlify - https://dazzling-sfogliatella-2cf266.netlify.app/
