@@ -50,10 +50,10 @@ const Navbar = () => {
         <div className="flex flex-row gap-[22px]">
           <div className="flex flex-col hidden lg:block">
             <div className="text-base text-right font-regular text-dark">
-              Anima Agrawal
+              Harshit
             </div>
             <div className="text-sm text-right text-gray-600 font-regular">
-              U.P, India
+              Dehradun, India
             </div>
           </div>
           <div className="flex flex-row items-center justify-center gap-[10px] cursor-pointer">
